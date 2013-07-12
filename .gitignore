@@ -1,0 +1,10 @@
+# tmp files #
+
+*.save
+*.*`
+
+# Mac fixes #
+*.DSstore
+
+# Config files #
+*config.* ## Make sure to include *config-example.* every time
